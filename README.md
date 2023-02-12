@@ -5,7 +5,7 @@
 
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="20" height="20" />I’m currently working on **React Js**
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Blockchain**
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Nodejs to become Full Stack developer**
 
 <img src="https://em-content.zobj.net/thumbs/320/docomo/205/speech-balloon_1f4ac.png" width="20" height="20" /> Ask me about **MEARN**
 
