@@ -1,17 +1,11 @@
 <div align="center"><h1>Hi<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" height="40" />, I'm Moses J</h1></div>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Passionate+Frontend+Developer%F0%9F%94%A5;Eager+%7CTech+learning%7C+Career+growth" alt="Typing SVG" /></a>
+Hello, my name is Moses J and I am a passionate front-end developer and currently pursuing my B.Tech in Computer Science at Dayananda Sagar University, Bangalore. I  have always been fascinated by the way technology can be used to solve complex problems and make life easier for people. This fascination led me to pursue a career in computer science, where I am constantly learning and exploring new technologies to enhance my skills.
+
+As a front-end developer, I am proficient in <h3>JavaScript, React Js, Tailwind CSS </h3> and have been working on Node.js to become a MERN stack developer. I believe that learning is a never-ending process and I constantly upgrade my skills to stay ahead of the curve. I have a strong ability to adapt to new technologies and love exploring new depths to further my knowledge.
+
+I am excited to be part of an environment where I can collaborate with like-minded professionals and share knowledge to achieve common goals. I believe in hard work, perseverance, and team effort, and am confident that I can contribute positively to any project or team.
 </p>
-
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="20" height="20" />I’m currently working on **React Js**
-
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/open-book_1f4d6.png" width="20" height="20" /> I’m currently learning **Nodejs to become Full Stack developer**
-
-<img src="https://em-content.zobj.net/thumbs/320/docomo/205/speech-balloon_1f4ac.png" width="20" height="20" /> Ask me about **MEARN**
-
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/call-me-hand_1f919.png" width="20" height="20" /> How to reach me **mosesrstar18@gmail.com**
-
-⚡ Fun fact **Coding can “power up” your brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
