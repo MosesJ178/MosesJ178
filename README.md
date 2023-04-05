@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" height="40" />, I'm Moses J</h1></div>
-<p align="center">
+<p>
 I am a passionate front-end developer and currently pursuing my B.Tech in Computer Science at Dayananda Sagar University, Bangalore. I  have always been fascinated by the way technology can be used to solve complex problems and make life easier for people. This fascination led me to pursue a career in computer science, where I am constantly learning and exploring new technologies to enhance my skills.As a front-end developer, I am proficient in <strong>JavaScript, React Js, Tailwind CSS</strong> and have been working on Node.js to become a MERN stack developer. I believe that learning is a never-ending process and I constantly upgrade my skills to stay ahead of the curve. I have a strong ability to adapt to new technologies and love exploring new depths to further my knowledge.I am excited to be part of an environment where I can collaborate with like-minded professionals and share knowledge to achieve common goals. I believe in hard work, perseverance, and team effort, and am confident that I can contribute positively to any project or team.
 </p>
 
