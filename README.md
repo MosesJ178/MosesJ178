@@ -5,7 +5,7 @@
   I am a passionate <strong>Front-end developer</strong> a Software Developer at Predict Growth AI. I  have always been fascinated by the way technology can be used to solve complex problems and make life easier for people. This fascination led me to pursue a career in computer science, where I am constantly learning and exploring new technologies to enhance my skills.As a front-end developer, I am proficient in <strong>JavaScript, React Js, Tailwind CSS</strong> and have been working on Node.js to become a MERN stack developer. I believe that learning is a never-ending process and I constantly upgrade my skills to stay ahead of the curve. I have a strong ability to adapt to new technologies and love exploring new depths to further my knowledge.I am excited to be part of an environment where I can collaborate with like-minded professionals and share knowledge to achieve common goals. I believe in hard work, perseverance, and team effort, and am confident that I can contribute positively to any project or team.
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me</h3>
 <p align="left">
 <a href="https://twitter.com/acc-name" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Moses J"/></a>
 <a href="https://www.linkedin.com/in/moses-j-ba069624b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rishav-chanda-b89a791b3" /></a>
